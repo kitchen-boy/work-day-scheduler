@@ -2,7 +2,7 @@
 A Simple calendar application that allows a user to save events for each hour of the day. 
 * This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-#Criteria
+# Criteria
 * The current day is displayed at the top of the claendar
 * Presentation with time blocks for standard business hours
 * Each time block is color-coded to indicate whether it is in the past, present or future.
